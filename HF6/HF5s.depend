@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544515443 source:c:\users\jakob_000\documents\elte fizika\2018-2019-01\c\c_feladatok\hf5sajat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
